@@ -1,0 +1,10 @@
+{
+    "token": {
+        "secret_key": "$(asdlkjasq)/asdkaklsd",
+        "lifetimes": 36000
+    },
+    "port": 3000,
+    "host": "http://localhost",
+    "domain": "http://localhost:3000",
+    "api_version": "v1"
+}
